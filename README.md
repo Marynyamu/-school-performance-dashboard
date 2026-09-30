@@ -25,13 +25,6 @@ It replaces manual spreadsheet reporting with an interactive, refreshable dashbo
 - **Academic Performance** — student performance trends by subject, class, and term
 - **[Add/rename pages to match your actual .pbix tabs]**
 
-## Screenshots
-
-> Replace these with your actual exported PNG/JPG screenshots, saved in a folder like `/screenshots` in this repo.
-
-![Overview page](screenshots/overview.png)
-![Fee Collection page](screenshots/fee-collection.png)
-![Academic Performance page](screenshots/academic-performance.png)
 
 ## How to Open This Dashboard
 
